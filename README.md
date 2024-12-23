@@ -54,8 +54,6 @@ npm run generate-thumbnails
 ## Структура проекта
 
 - `/src` - исходный код
-    - `/components` - React компоненты
-    - `/3d` - логика работы с 3D сценой
 - `/public` - статические файлы
     - `/models` - 3D модели
     - `/textures` - текстуры
